@@ -45,3 +45,40 @@
   }
 
 }
+
+@media (max-width: 1080px) {
+  .contentContainer {
+    img {
+      width: 20rem;
+      padding-bottom: 4rem;
+
+    }
+  }
+}
+
+@media (max-width: 720px) {
+  .contentContainer {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .hero {
+    margin-top: 4rem;
+
+    button {
+      margin-top: 2.5rem auto;
+    }
+  }
+}
+
+@media (max-width: 576px) {
+  .hero {
+    h1 {
+      font-size: 3.5rem;
+    }
+
+    p {
+      font-size: 1.25rem;
+    }
+  }
+}

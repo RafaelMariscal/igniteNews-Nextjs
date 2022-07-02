@@ -56,3 +56,29 @@
     margin-left: auto;
   }
 }
+
+@media (max-width: 576px) {
+  .headerContent {
+    img {
+      width: 4rem;
+    }
+
+    nav {
+      margin-left: 2.5rem;
+
+      a {
+        &+a {
+          margin-left: 1rem;
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 360px) {
+  .headerContent {
+    nav {
+      margin-left: 1.75rem;
+    }
+  }
+}

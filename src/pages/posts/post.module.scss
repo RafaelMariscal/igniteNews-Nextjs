@@ -65,3 +65,23 @@
     }
   }
 }
+
+@media (max-width: 720px) {
+  .post {
+    margin: 3rem auto 0;
+
+    h1 {
+      font-size: 2.5rem;
+    }
+  }
+}
+
+@media (max-width: 576px) {
+  .post {
+    margin: 2rem auto 0;
+
+    h1 {
+      font-size: 2rem;
+    }
+  }
+}
