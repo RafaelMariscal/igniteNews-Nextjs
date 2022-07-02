@@ -21,10 +21,10 @@ A <strong>Next.js</strong> + <strong>FaunaDB</strong> + <strong>Stripe</strong> 
 <kbd>
 <img src="https://media.giphy.com/media/deH3UTBDkfwmR9iVkm/giphy.gif" width="400px"/>
 <img src="https://media.giphy.com/media/I1U36pxZNN92bZtCvG/giphy.gif" width="400px"/> </br>
-<img src="https://github.com/RafaelMariscal/igniteNews-Nextjs/blob/main/public/images/Captura%20de%20tela%202022-07-02%20131012.jpg" width="480px"/>
-<img src="https://github.com/RafaelMariscal/igniteNews-Nextjs/blob/main/public/images/Captura%20de%20tela%202022-07-02%20131140.jpg" width="480px"/> </br>
-<img src="https://github.com/RafaelMariscal/igniteNews-Nextjs/blob/main/public/images/Captura%20de%20tela%202022-07-02%20131207.jpg" width="480px"/>
-<img src="https://github.com/RafaelMariscal/igniteNews-Nextjs/blob/main/public/images/Captura%20de%20tela%202022-07-02%20131248.jpg" width="480px"/> </br>
+<img src="https://github.com/RafaelMariscal/igniteNews-Nextjs/blob/main/public/images/Captura%20de%20tela%202022-07-02%20131012.jpg" width="400px"/>
+<img src="https://github.com/RafaelMariscal/igniteNews-Nextjs/blob/main/public/images/Captura%20de%20tela%202022-07-02%20131140.jpg" width="400px"/> </br>
+<img src="https://github.com/RafaelMariscal/igniteNews-Nextjs/blob/main/public/images/Captura%20de%20tela%202022-07-02%20131207.jpg" width="400px"/>
+<img src="https://github.com/RafaelMariscal/igniteNews-Nextjs/blob/main/public/images/Captura%20de%20tela%202022-07-02%20131248.jpg" width="400px"/> </br>
 </kbd>
 </p>
 
