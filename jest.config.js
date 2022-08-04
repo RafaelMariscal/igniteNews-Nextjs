@@ -1,5 +1,5 @@
 module.exports = {
-  testPathIgnorePattern: [
+  testPathIgnorePatterns: [
     "/node_modules/",
     "/.next/"
   ],
